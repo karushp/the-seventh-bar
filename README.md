@@ -42,7 +42,7 @@ As a guitarist learning jazz, I often found myself wondering: *"How do I play a 
 ## 🚀 Quick Start
 
 ### **Live Demo**
-Visit: [The Seventh Bar](https://yourusername.github.io/the-seventh-bar)
+Visit: [The Seventh Bar](https://karushp.github.io/the-seventh-bar)
 
 ### **Local Development**
 ```bash
@@ -161,8 +161,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/the-seventh-bar](https://github.com/yourusername/the-seventh-bar)
-- **Live Demo**: [https://yourusername.github.io/the-seventh-bar](https://yourusername.github.io/the-seventh-bar)
+- **Project Link**: [https://github.com/yourusername/the-seventh-bar](https://github.com/karushp/the-seventh-bar)
+- **Live Demo**: [https://yourusername.github.io/the-seventh-bar](https://karushp.github.io/the-seventh-bar)
 
 ---
 
