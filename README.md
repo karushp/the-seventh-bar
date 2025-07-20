@@ -161,8 +161,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/the-seventh-bar](https://github.com/karushp/the-seventh-bar)
-- **Live Demo**: [https://yourusername.github.io/the-seventh-bar](https://karushp.github.io/the-seventh-bar)
+- **Project Link**: [https://github.com/karushp/the-seventh-bar](https://github.com/karushp/the-seventh-bar)
+- **Live Demo**: [https://karushp.github.io/the-seventh-bar](https://karushp.github.io/the-seventh-bar)
 
 ---
 
