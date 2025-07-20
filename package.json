@@ -1,0 +1,39 @@
+{
+  "name": "the-seventh-bar",
+  "version": "1.0.0",
+  "description": "Jazz up your chords one voicing at a time. A modern web app that transforms basic guitar chords into sophisticated jazz voicings with beautiful fretboard diagrams.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "build": "echo 'No build step required - pure HTML/CSS/JS'"
+  },
+  "keywords": [
+    "jazz",
+    "guitar",
+    "chords",
+    "music",
+    "web-app",
+    "fretboard",
+    "voicings",
+    "music-theory",
+    "glassmorphism",
+    "chord-converter",
+    "jazz-harmony",
+    "guitar-lessons"
+  ],
+  "author": "The Seventh Bar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/the-seventh-bar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/the-seventh-bar/issues"
+  },
+  "homepage": "https://yourusername.github.io/the-seventh-bar",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 

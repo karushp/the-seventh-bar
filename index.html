@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Seventh Bar 𝄪𝄫</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>The Seventh Bar 𝄪𝄫</h1>
+            <p>Jazz up your chords one voicing at a time.</p>
+        </header>
+
+        <main class="main-layout">
+            <div class="input-section">
+                <div class="input-group">
+                    <label for="chordInput">Enter Guitar Chords:</label>
+                    <textarea 
+                        id="chordInput" 
+                        placeholder="Try chords like C, Am, F, G or single chords"
+                        rows="3"
+                    ></textarea>
+                </div>
+                
+                <div class="options">
+                    <div class="option-group">
+                        <label for="complexity">Jazz Complexity:</label>
+                        <select id="complexity">
+                            <option value="basic">Basic Jazz</option>
+                            <option value="intermediate">Intermediate</option>
+                            <option value="advanced">Advanced</option>
+                        </select>
+                    </div>
+                    
+                    <div class="option-group">
+                        <label for="voicing">Voicing Type:</label>
+                        <select id="voicing">
+                            <option value="drop2">Drop 2</option>
+                            <option value="drop3">Drop 3</option>
+                            <option value="close">Close Voicing</option>
+                            <option value="shell">Shell Voicing</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button id="convertBtn" class="convert-btn">Jazz up!</button>
+                
+                <div class="tips">
+                    <p><strong>💡 Tips:</strong></p>
+                    <ul>
+                        <li>Try chords like C, Am, F, G or single chords (e.g., C, Am, F, G)</li>
+                        <li>Choose complexity and voicing styles for variety</li>
+                        <li>Press Ctrl + Enter to convert instantly</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="results-section" id="resultsSection">
+                <h2>Chord Voicings</h2>
+                <div id="results" class="results-grid"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Vibe code from someone who still googles ‘jazz chords’</p>
+        </footer>
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html> 
